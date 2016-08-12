@@ -6,4 +6,5 @@ Created on 10 ago. 2016
 
 import paho.mqtt.client as mqtt
 
+
 print "Hello World"
